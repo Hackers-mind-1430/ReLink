@@ -8,7 +8,6 @@ ReLink2 is an Android application designed to help users reconnect with lost fri
 ## 📌 Table of Contents
 
 * [Features](#-features)
-* [Screenshots](#-screenshots)
 * [Getting Started](#-getting-started)
 * [Installation](#-installation)
 * [Usage](#-usage)
